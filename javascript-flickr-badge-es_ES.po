@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: javascript-flickr-badge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-23 21:34+0100\n"
+"PO-Revision-Date: 2013-05-23 21:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: Jyst <support@jyst.us>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: javascript-flickr-badge.php:48
+msgid "No Flickr ID provided."
+msgstr "No se proporcionó la ID de Flickr."
+
+#: javascript-flickr-badge.php:96
+msgid "Title"
+msgstr "Título"
+
+#: javascript-flickr-badge.php:98
+msgid "Feed"
+msgstr "Fuente"
+
+#: javascript-flickr-badge.php:100
+msgid "User"
+msgstr "Usuario"
+
+#: javascript-flickr-badge.php:101
+msgid "Group"
+msgstr "Grupo"
+
+#: javascript-flickr-badge.php:102
+msgid "Favorites"
+msgstr "Favoritas"
+
+#: javascript-flickr-badge.php:103
+msgid "Contacts (One Photo Each)"
+msgstr "Contactos (una foto de cada uno)"
+
+#: javascript-flickr-badge.php:104
+msgid "Contacts (All Photos)"
+msgstr "Contactos (todas las fotos)"
+
+#: javascript-flickr-badge.php:105
+msgid "Friends & Family (One Photo Each)"
+msgstr "Amigos y Familia (una foto de cada uno)"
+
+#: javascript-flickr-badge.php:106
+msgid "Friends & Family (All Photos)"
+msgstr "Amigos y Familia (todas las fotos)"
+
+#: javascript-flickr-badge.php:109
+msgid "Flickr ID"
+msgstr "ID de Flickr"
+
+#: javascript-flickr-badge.php:110
+msgid "Find it here"
+msgstr "Búscalo aquí"
+
+#: javascript-flickr-badge.php:112
+msgid "Tags (separated by commas, only used with User feed)"
+msgstr "Etiquetas (separados por comas, solo se usa con la fuente de usuario)"
+
+#: javascript-flickr-badge.php:114
+msgid "Rows"
+msgstr "Filas"
+
+#: javascript-flickr-badge.php:116
+msgid "Columns"
+msgstr "Columnas"
+
+#: javascript-flickr-badge.php:118
+msgid "Thumbnail Size"
+msgstr "Tamaño de Thumbnail"
+
+#: javascript-flickr-badge.php:120
+msgid "Animation"
+msgstr "Animación"
+
+#: javascript-flickr-badge.php:122
+msgid "[none]"
+msgstr "[ninguno]"
+
+#: javascript-flickr-badge.php:123
+msgid "Random"
+msgstr "Aleatorio"
+
+#: javascript-flickr-badge.php:124
+msgid "Shuffle"
+msgstr "Barajar"
+
+#: javascript-flickr-badge.php:125
+msgid "Zoom"
+msgstr "Zoom"
+
+#: javascript-flickr-badge.php:126
+msgid "Vertical Scroll"
+msgstr "Desplazamiento Vertical"
+
+#: javascript-flickr-badge.php:127
+msgid "Flip Horizontal"
+msgstr "Vuelta Horizontal"
+
+#: javascript-flickr-badge.php:128
+msgid "Flip Vertical"
+msgstr "Vuelta Vertical"
+
+#: javascript-flickr-badge.php:130
+msgid "Animation Speed (in seconds)"
+msgstr "Velocidad de Animación (en segundos)"
+
+#: javascript-flickr-badge.php:132
+msgid "Animation Pause (in seconds)"
+msgstr "Pausa de Animación (en segundos)"
+
+#: javascript-flickr-badge.php:134
+msgid "Give Widget Author Credit?"
+msgstr "Da crédito al autor del widget?"
+
+#: javascript-flickr-badge.php:136
+msgid "Yes"
+msgstr "Sí"
+
+#: javascript-flickr-badge.php:137
+msgid "No"
+msgstr "No"
+
+#: javascript-flickr-badge.php:147 javascript-flickr-badge.php:148
+msgid "Javascript Flickr Badge"
+msgstr "Javascript Flickr Badge"
+
+#~ msgid "Animation (will include Script.aculo.us)"
+#~ msgstr "Animación (incluirá Script.aculo.us)"
